@@ -1,0 +1,33 @@
+html{
+    background-color: white;
+}
+header{
+    background-color: black;
+    color: blue;
+    font-size: 22px;
+    font-family: "verdana";
+    padding: 1rem;
+    display: block;
+    justify-content: right;
+
+}
+main{
+    background-color: blue;
+    color: white;
+    display: flex;
+    padding: 5rem;
+    justify-content: right;
+}
+footer{
+    background-color: black;
+
+}
+h2{
+    display: flex;
+    justify-content: space-between;
+
+}
+a img{
+    width: 95%;
+    padding-left: 50px;
+}
